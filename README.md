@@ -1,4 +1,3 @@
-"""
 # Estructuras de Datos en Python
 
 Este proyecto incluye implementaciones básicas de tres estructuras fundamentales:
@@ -17,4 +16,3 @@ python main.py
 
 ## Autor
 [Tu Nombre Aquí]
-"""
