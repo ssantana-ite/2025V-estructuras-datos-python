@@ -30,7 +30,7 @@ Posteriormente, realiza los siguientes pasos para configurar e implementar tu c�
 7.	Crear un archivo main.py que permita elegir desde consola qué estructura ejecutar.
 8.	Hacer commits frecuentes con mensajes significativos (por ejemplo: “Crear implementación básica de algoritmo de pila”)
 9.	Subir el enlace del repositorio en un documento PDF
-10.	Redactar en el README.md una brefe reflexión sobre:
+10.	Redactar en el README.md una breve reflexión sobre:
     <ol type="a">
         <li>¿Qué aprendiste?</li>
         <li>¿Qué dificultad tuviste?</li>
